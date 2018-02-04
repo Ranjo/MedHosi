@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+nav{
+	display: inline-block;
+	background: #333;
+	color: #999;
+	padding: 20px;
+	}
+	#sidebar{
+	Padding: 20px;	
+	float:left;
+	padding-top: 100px;
+		
+	}
+	#show{
+	float:left;	
+	padding: 10px;
+		
+	}
+	#footer{
+	float: none;
+	display:inline-block;
+		
+	}
+	#padiv{
+padding:15px;
+
+	}
+	#navsection{
+	padding: 20px;	
+	
+
+	}
+.box{
+
+    
+     background: #f0e68c;
+
+     border: 1px solid #a29415;
+
+      }
+
+.box-inner{
+
+      
+
+        }

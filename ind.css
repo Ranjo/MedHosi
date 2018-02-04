@@ -1,0 +1,23 @@
+#padd{
+	padding: 25%;
+
+}
+all{
+	background: white;
+}
+#border{
+	border: solid;
+	}
+	footer{
+		align: center;
+
+	}
+	body{
+		text-align: center;
+	}
+	#centerdiv{
+		align-items: center;
+	}
+	td{
+		height: 40px;
+	}
